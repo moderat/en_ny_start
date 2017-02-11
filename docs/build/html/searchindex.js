@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index"],envversion:50,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{"s\u00f8gesid":0,indek:0,modulindek:0},titles:["Dokumentation af Det Statistiske Datavarehus (DSDW)"],titleterms:{Det:0,and:0,datavarehus:0,documentation:[],documentationsprojek:[],dokumentation:0,dsdd:[],dsdw:0,indic:0,statistisk:0,tabl:0,welcom:[]}})
